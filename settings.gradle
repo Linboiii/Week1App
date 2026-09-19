@@ -1,0 +1,2 @@
+include ':Week1'
+include ':MyApplication'
